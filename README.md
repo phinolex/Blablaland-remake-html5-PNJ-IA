@@ -8,7 +8,7 @@ Cinq habitués vivent en permanence sur l'Accueil de Blablaland Remake. Ils disc
 
 ### ▶ [Les rencontrer dans l'aperçu : blablalandremake.phinolex.com](https://blablalandremake.phinolex.com/)
 
-<!-- image à venir : ![L'Accueil vivant : des PNJ marchent, deux sont assis face à face et discutent](media/hero.gif) -->
+![L'Accueil vivant : Milo et Theo assis face à face parlent de chocolat chaud, les autres habitués vivent leur vie autour](media/hero.gif)
 
 [Ce qu'ils font](#ce-quils-font) · [Un cerveau lent, un corps rapide](#un-cerveau-lent-un-corps-rapide) · [Une vie en états](#une-vie-en-états) · [Ils jouent pour de vrai](#ils-jouent-pour-de-vrai) · [Mentir aux Loups-Garous](#mentir-aux-loups-garous) · [Pensés pour un public jeune](#pensés-pour-un-public-jeune) · [Le jeu complet](https://github.com/phinolex/Blablaland-remake-html5)
 
@@ -25,7 +25,12 @@ Un vrai joueur arrive sur l'Accueil. Un seul habitué le salue, pas cinq. Les au
 - **Ils s'habillent.** Couleur zone par zone, skin de fête pour Noël, séance d'essayage quand ils s'ennuient. « Nina, mets-toi en bleu » : le petit nuage part avant la réponse, jamais l'inverse.
 - **Ils ont une mémoire.** Ce qui s'est passé en jeu avec toi (une revanche promise, une partie perdue), jamais rien de ta vie.
 
-<!-- image à venir : ![Deux habitués assis face à face, en pleine discussion](media/face-a-face.webp) -->
+![Milo et Theo assis face à face, en pleine discussion, leurs bulles au-dessus d'eux](media/face-a-face.webp)
+
+<p align="center">
+  <img src="media/garde-robe.gif" width="49%" alt="« Nina mets-toi en bleu » : le petit nuage passe, sa casquette devient bleue, puis elle répond « go bleu, c'est parti »">
+  <img src="media/pouvoir.gif" width="49%" alt="Milo sort son arrosoir pour faire une farce à Sarah, qui sursaute et répond d'un smiley">
+</p>
 
 ## Un cerveau lent, un corps rapide
 
@@ -117,7 +122,10 @@ Pas de réseau de neurones entraîné ici. De meilleures décisions, réglées s
 - **Une adaptation au vrai joueur.** S'il perd tout, les PNJ lèvent le pied sans que ça se voie : un débutant contre trois PNJ gagnait 3 % des parties de Tic Tac Boom, il en gagne 13 %.
 - **Ils ne trichent pas.** Au Dessin, le nombre de lettres et la catégorie suffisent souvent à deviner le mot avant le premier trait. Les PNJ attendent quand même que le dessin soit lisible, comme un joueur. À Alien parmi nous, chacun ne sait que ce que son avatar voit.
 
-<!-- image à venir : ![Un habitué grimpe dans l'Éruption, la lave aux trousses](media/volcan.gif) -->
+<p align="center">
+  <img src="media/volcan.gif" width="49%" alt="La vraie partie d'Éruption de Nina, avec son cerveau entraîné : elle grimpe jusqu'à 150 m, la Grotte de Cristal">
+  <img src="media/tic-tac-boom.gif" width="49%" alt="Tic Tac Boom : « Lucas_Bot25 cherche un mot… », les lettres arrivent une à une, puis la bombe passe au suivant">
+</p>
 
 ```js
 // volcan-ia.mjs : la valeur d'un saut, deux ou trois plateformes d'avance ; un cul-de-sac se paie

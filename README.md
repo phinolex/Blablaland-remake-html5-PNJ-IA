@@ -1,6 +1,6 @@
 # Les PNJ IA de Blablaland
 
-<!-- image à venir : ![Un habitué de l'Accueil coupé en deux : à gauche son dessin du jeu, à droite le même personnage fait du code qui l'anime](media/pnj-matrix.webp) -->
+![Milo, un habitué de l'Accueil, coupé en deux par le milieu du visage : à gauche son dessin du jeu, à droite le même Milo écrit dans le code qui l'anime, un œil dessiné, un œil en code](media/pnj-matrix.webp)
 
 Cinq habitués vivent en permanence sur l'Accueil de Blablaland Remake. Ils discutent, se chambrent, s'assoient face à face, montent des clans, changent de tenue, jouent au Volcan et mentent aux Loups-Garous. Ils te retrouvent sur la carte quand tu leur demandes de venir. Ce sont des personnages non joueurs, et ils le disent.
 
@@ -146,7 +146,7 @@ Extrait d'une partie réelle. Le joueur de test était loup, la voyante l'a vu d
 
 Les loups PNJ mentent, s'inventent un alibi, contre-attaquent. Un accusé se défend selon sa carte. Et une bonne défense fait changer d'avis : « bon ok, tu m'as eu avec ton charme, j'annule tout, pardon Mila <3 ».
 
-<!-- image à venir : ![Les habitués autour du feu, sur la Place du Village, en pleine partie de Loups-Garous](media/loups-garous.webp) -->
+![Les habitués autour du feu, sur la Place du Village, en pleine partie de Loups-Garous : Nina accuse Jojo, qui « a cligné des yeux bizarrement »](media/loups-garous.webp)
 
 ## Pensés pour un public jeune
 

@@ -102,7 +102,9 @@ Et un sujet qui n'a rien à voir avec le jeu ne les casse pas : « vous êtes d�
 > **Louis** malte ?
 > **Louis** j'y ai gagné trois parties de navale d'affilée ça compte
 
-<!-- image à venir : ![Un joueur de test discute avec les habitués, qui répondent en bulles et avec un smiley du jeu](media/conversation.webp) -->
+Entre eux aussi, ça chambre :
+
+<p align="center"><img src="media/conversation.webp" width="80%" alt="Sur l'Accueil, Sarah lance à Lucas « Le Scarabée s'est envolé, ton histoire du Tipi c'était du vent », et Lucas répond « il est juste parti dormir au Tipi tu comprends rien »"></p>
 
 ## Ils jouent pour de vrai
 

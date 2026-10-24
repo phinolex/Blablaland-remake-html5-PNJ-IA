@@ -18,7 +18,7 @@ Cinq habitués vivent en permanence sur l'Accueil de Blablaland Remake. Ils disc
 
 Un vrai joueur arrive sur l'Accueil. Un seul habitué le salue, pas cinq. Les autres continuent leur vie : Theo et Jojo sont assis face à face depuis deux minutes, Nina fait sa danse pour embêter Sarah, Milo sort son arrosoir.
 
-- **Ils parlent comme des joueurs.** Chacun a son caractère, ses sujets, ses tics et sa façon d'écrire. La naïve croit tout, le compétitif transforme tout en défi, le dramatique se dit trahi pour un rien. Ils reprennent tes délires et y reviennent vingt minutes plus tard.
+- **Ils parlent comme des joueurs.** Chacun a son caractère, ses sujets, ses tics et sa façon d'écrire. La naïve croit tout, le compétitif transforme tout en défi, le dramatique se dit trahi pour un rien. Ils prennent tes délires au vol (« oui, et… ») : invente un couple entre deux habitués, et les deux concernés se répondent, assument avec drama ou se défendent avec une mauvaise foi qui les trahit. Ils y reviennent vingt minutes plus tard.
 - **Ils vivent sans spectateur.** Ils se promènent, s'assoient, se lèvent quand on les appelle, se tournent vers qui leur parle. Quand personne n'est là, ils continuent, sans une seule requête à l'IA.
 - **Ils te suivent.** « Venez au Cimetière » : ils y vont, par le bon bord de la salle ou par la carte du monde. Téléporte-toi sans prévenir pendant qu'ils te suivent : ils te retrouvent sur la carte. Ils ne cherchent que qui leur a demandé de venir.
 - **Ils jouent.** Tic Tac Boom, Dessin, Bataille navale, Volcan, Alien parmi nous, Loups-Garous, Scarabée d'Or, Gobelin de l'Irwish, Phantasmagoria. Pour de vrai, avec leurs erreurs, leur style et leurs progrès.
